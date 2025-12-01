@@ -17,7 +17,7 @@ The entire analysis is managed by a **LangGraph StateGraph**, which defines a re
 Here's a visual representation of the workflow:
 
 
-![Autonomous Data Analyst Workflow]()
+![Autonomous Data Analyst Workflow](image/Screenshot%202025-12-01%20130004.png)
 
 ### Flow Nodes:
 
