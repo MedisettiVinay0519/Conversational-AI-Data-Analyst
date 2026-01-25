@@ -22,7 +22,7 @@ A dataset-agnostic AI system that performs:
   - Business-style summaries using LLMs
 
 ## 🏗️ Architecture
-![Project Architecture](assets/architecture.png)
+![Project Architecture](image/Screenshot%202025-12-01%20130004.png)
 
 
 ## Start backend
