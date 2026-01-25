@@ -1,19 +1,13 @@
-# Core Frameworks
-langchain
-langchain-core
-langgraph
-
-# LLM Integration (Assuming OpenAI based on the provided code)
-# You may swap this for your preferred LLM provider's library (e.g., langchain-google-genai)
-langchain-openai
-
-# Data Handling and Analysis
+fastapi
+uvicorn
+streamlit
 pandas
 numpy
-
-# Visualization (for EDA plotting)
+scikit-learn
 matplotlib
 seaborn
-
-# Machine Learning
-scikit-learn
+langchain
+langgraph
+langchain-groq
+python-dotenv
+requests
