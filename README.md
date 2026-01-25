@@ -33,10 +33,10 @@ uvicorn app:api --reload
 ```bash
 streamlit run frontend.py
 ```
-
-
-
-## 🖥️ Run Locally
+## clone repo
+```bash
+git clone https://github.com/MedisettiVinay0519/Conversational-AI-Data-Analyst.git
+```
 
 ### 1️⃣ Install dependencies
 ```bash
