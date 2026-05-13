@@ -31,7 +31,7 @@ An advanced, production-ready AI Agent system built with **LangGraph** for state
   - Business-style summaries using LLMs
 
 ## 🏗️ Architecture
-![Project Architecture](image/Screenshot%202025-12-01%20130004.png)
+![Project Architecture](image/Agent-Arch.jpeg)
 
 
 ## Start backend
